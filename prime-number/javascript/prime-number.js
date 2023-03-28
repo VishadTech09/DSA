@@ -1,3 +1,4 @@
+/* This function check whether given number is Prime number or not */
 const isPrimeNumber = (A) => {
     let counter = 0;
     let isPrime = false;
