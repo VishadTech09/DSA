@@ -9,11 +9,10 @@ Given an integer n, return a string array answer (1-indexed) where:
 
 
 ## Time Complexity
-O (m x n)
-We are iterating m number of customers for n numbers of accounts they hold in the banks.
+O(n)
 
 ## Space Complexity
-O(1) - We are not creating any new data structure.
+O(n)
 
 ## Example 1  
 ~~~javascript  
