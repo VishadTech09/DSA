@@ -12,7 +12,7 @@ Given an integer n, return a string array answer (1-indexed) where:
 O(n)
 
 ## Space Complexity
-O(n)
+O(1)
 
 ## Example 1  
 ~~~javascript  
